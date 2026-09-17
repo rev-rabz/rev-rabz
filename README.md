@@ -1,4 +1,4 @@
-# 👋 Hey, I'm John Rabongo
+# 👋 Hey, I'm Rev John Rabongo
 
 ### Software Developer · Web Applications · Business Systems
 
