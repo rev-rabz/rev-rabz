@@ -1,7 +1,5 @@
 <div align="center">
 
-<img src="./assets/profile-avatar.svg" width="140" alt="Rev John Rabongo" />
-
 # 👋 Hey, I'm **Rev John Rabongo**
 
 ### Software Developer · Backend Engineer · Business Systems
